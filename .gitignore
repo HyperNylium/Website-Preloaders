@@ -1,0 +1,15 @@
+#~~~~ Created .gitignore ~~~~#
+*
+!.gitignore
+!.gitattributes
+!/Google_Circle_Loader
+!/Google_Circle_Loader/*
+
+!/Pencil_Loader
+!/Pencil_Loader/*
+
+!/Shapes_Loader
+!/Shapes_Loader/*
+
+!/Windows_Loader
+!/Windows_Loader/*
