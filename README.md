@@ -5,7 +5,7 @@ Some preloaders converted from Scss to CSS3. Some are from me and some are from 
 [Compass_Loader](https://hypernylium.github.io/Website-Preloaders/Compass_Loader)\
 [Google_Circle_Loader](https://hypernylium.github.io/Website-Preloaders/Google_Circle_Loader)\
 [Infinity Preloader](https://hypernylium.github.io/Website-Preloaders/Infinity%20Preloader/)\
-[Laky_Preloader](https://hypernylium.github.io/Website-Preloaders/Laky_Preloader)\
+[Leaky_Preloader](https://hypernylium.github.io/Website-Preloaders/Leaky_Preloader)\
 [Off_Track_Loader](https://hypernylium.github.io/Website-Preloaders/Off_Track_Loader)\
 [Pencil_Loader](https://hypernylium.github.io/Website-Preloaders/Pencil_Loader)\
 [Segmented_progress_bar](https://hypernylium.github.io/Website-Preloaders/Segmented_progress_bar)\
